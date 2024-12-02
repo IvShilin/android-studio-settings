@@ -1,0 +1,21 @@
+<application>
+  <component name="GitLabAccounts"><![CDATA[{
+  "accounts": [
+    {
+      "id": "b3519de6-5357-4401-a515-d89c0c1cdbdd",
+      "name": "shilin-is",
+      "server": {
+        "uri": "https://git.sbertroika.ru"
+      }
+    },
+    {
+      "id": "328fb802-8425-438e-a1b9-9e031c4905de",
+      "name": "i.shilin",
+      "server": {
+        "uri": "https://gitlab.mosmetro.tech"
+      }
+    }
+  ]
+}]]></component>
+  <component name="GitLabSettings"><![CDATA[{}]]></component>
+</application>
